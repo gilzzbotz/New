@@ -18,19 +18,19 @@ global.autoread = true // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "Gilzz-MD" //namabot kalian
-global.ownername= "GilzzOFC×፝֟͜×" //nama kalian
+global.botname = "Maxx-MD" //namabot kalian
+global.ownername= "Maxx×፝֟͜×" //nama kalian
 global.myweb ="https://github.com/gilzzbotz" //bebas asal jan hapus
 global.youtube = "https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw" //bebas asal jan hapus
 global.github = "https://github.com/gilzzbotz" //bebas
 global.email = "tikoasep@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6285730794089" // nomor wa kalian
-global.ownernomerr = "+6285730794089" //nmr wa kalian
+global.ownernomer = "6288807354544" // nomor wa kalian
+global.ownernomerr = "+6288807354544" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://i.postimg.cc/L84bLpxL/menu-1.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285730794089","6285730795089"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6288807354544","6288807354544"] //ganti agar fitur owner bisa di gunakan
 global.packname = '©GILZBOTོ' //sticker wm ubah
 global.author = 'Gilzz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
